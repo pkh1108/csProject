@@ -1,0 +1,10 @@
+C:\박가현\2018_1\Window Programming\Dark_Echo\Dark_Echo\bin\Debug\Dark_Echo.exe.config
+C:\박가현\2018_1\Window Programming\Dark_Echo\Dark_Echo\bin\Debug\Dark_Echo.exe
+C:\박가현\2018_1\Window Programming\Dark_Echo\Dark_Echo\bin\Debug\Dark_Echo.pdb
+C:\박가현\2018_1\Window Programming\Dark_Echo\Dark_Echo\obj\Debug\Dark_Echo.csprojResolveAssemblyReference.cache
+C:\박가현\2018_1\Window Programming\Dark_Echo\Dark_Echo\obj\Debug\Dark_Echo.MainForm.resources
+C:\박가현\2018_1\Window Programming\Dark_Echo\Dark_Echo\obj\Debug\Dark_Echo.Properties.Resources.resources
+C:\박가현\2018_1\Window Programming\Dark_Echo\Dark_Echo\obj\Debug\Dark_Echo.csproj.GenerateResource.Cache
+C:\박가현\2018_1\Window Programming\Dark_Echo\Dark_Echo\obj\Debug\Dark_Echo.exe
+C:\박가현\2018_1\Window Programming\Dark_Echo\Dark_Echo\obj\Debug\Dark_Echo.pdb
+C:\박가현\2018_1\Window Programming\Dark_Echo\Dark_Echo\bin\Debug\AmaticSC-Bold.ttf
