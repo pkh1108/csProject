@@ -28,18 +28,34 @@
         /// </summary>
         private void InitializeComponent()
         {
-            this.PlayButton = new System.Windows.Forms.Button();
+            this.StartButton = new System.Windows.Forms.Button();
+            this.TitleLabel = new System.Windows.Forms.Label();
             this.SuspendLayout();
             // 
-            // PlayButton
+            // StartButton
             // 
-            this.PlayButton.BackColor = System.Drawing.SystemColors.Window;
-            this.PlayButton.Location = new System.Drawing.Point(527, 718);
-            this.PlayButton.Name = "PlayButton";
-            this.PlayButton.Size = new System.Drawing.Size(75, 23);
-            this.PlayButton.TabIndex = 0;
-            this.PlayButton.UseVisualStyleBackColor = false;
-            this.PlayButton.Visible = false;
+            this.StartButton.BackColor = System.Drawing.SystemColors.WindowText;
+            this.StartButton.FlatStyle = System.Windows.Forms.FlatStyle.Flat;
+            this.StartButton.Font = new System.Drawing.Font("BernhardFashion BT", 18F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.StartButton.ForeColor = System.Drawing.SystemColors.ButtonHighlight;
+            this.StartButton.Location = new System.Drawing.Point(339, 579);
+            this.StartButton.Name = "StartButton";
+            this.StartButton.Size = new System.Drawing.Size(230, 114);
+            this.StartButton.TabIndex = 0;
+            this.StartButton.Text = "P  L  A  Y";
+            this.StartButton.UseVisualStyleBackColor = false;
+            this.StartButton.Click += new System.EventHandler(this.StartButton_Click);
+            // 
+            // TitleLabel
+            // 
+            this.TitleLabel.Font = new System.Drawing.Font("BernhardFashion BT", 49.2F, System.Drawing.FontStyle.Bold, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.TitleLabel.ForeColor = System.Drawing.Color.GhostWhite;
+            this.TitleLabel.Location = new System.Drawing.Point(203, 177);
+            this.TitleLabel.Name = "TitleLabel";
+            this.TitleLabel.Size = new System.Drawing.Size(556, 214);
+            this.TitleLabel.TabIndex = 1;
+            this.TitleLabel.Text = "D a r k  E c h o";
+            this.TitleLabel.TextAlign = System.Drawing.ContentAlignment.MiddleCenter;
             // 
             // MainForm
             // 
@@ -47,17 +63,19 @@
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.BackColor = System.Drawing.SystemColors.ActiveCaptionText;
             this.ClientSize = new System.Drawing.Size(982, 953);
-            this.Controls.Add(this.PlayButton);
+            this.Controls.Add(this.TitleLabel);
+            this.Controls.Add(this.StartButton);
             this.Name = "MainForm";
             this.Text = "Dark_Echo";
-            this.Paint += new System.Windows.Forms.PaintEventHandler(this.MainForm_Paint);
+            this.Load += new System.EventHandler(this.MainForm_Load);
             this.ResumeLayout(false);
 
         }
 
         #endregion
 
-        private System.Windows.Forms.Button PlayButton;
+        private System.Windows.Forms.Button StartButton;
+        private System.Windows.Forms.Label TitleLabel;
     }
 }
 

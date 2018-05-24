@@ -8,3 +8,4 @@ C:\박가현\2018_1\Window Programming\Dark_Echo\Dark_Echo\obj\Debug\Dark_Echo.c
 C:\박가현\2018_1\Window Programming\Dark_Echo\Dark_Echo\obj\Debug\Dark_Echo.exe
 C:\박가현\2018_1\Window Programming\Dark_Echo\Dark_Echo\obj\Debug\Dark_Echo.pdb
 C:\박가현\2018_1\Window Programming\Dark_Echo\Dark_Echo\bin\Debug\AmaticSC-Bold.ttf
+C:\박가현\2018_1\Window Programming\Dark_Echo\Dark_Echo\obj\Debug\Dark_Echo.Game.resources
