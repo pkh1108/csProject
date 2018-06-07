@@ -60,24 +60,21 @@
     </Compile>
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
+    <Compile Include="Resource.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DesignTime>True</DesignTime>
+      <DependentUpon>Resource.resx</DependentUpon>
+    </Compile>
     <EmbeddedResource Include="Game.resx">
       <DependentUpon>Game.cs</DependentUpon>
     </EmbeddedResource>
     <EmbeddedResource Include="MainForm.resx">
       <DependentUpon>MainForm.cs</DependentUpon>
     </EmbeddedResource>
-    <EmbeddedResource Include="Properties\Resources.resx">
+    <EmbeddedResource Include="Resource.resx">
       <Generator>ResXFileCodeGenerator</Generator>
-      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
-      <SubType>Designer</SubType>
+      <LastGenOutput>Resource.Designer.cs</LastGenOutput>
     </EmbeddedResource>
-    <Compile Include="Properties\Resources.Designer.cs">
-      <AutoGen>True</AutoGen>
-      <DependentUpon>Resources.resx</DependentUpon>
-    </Compile>
-    <None Include="AmaticSC-Bold.ttf">
-      <CopyToOutputDirectory>PreserveNewest</CopyToOutputDirectory>
-    </None>
     <None Include="Properties\Settings.settings">
       <Generator>SettingsSingleFileGenerator</Generator>
       <LastGenOutput>Settings.Designer.cs</LastGenOutput>
@@ -90,6 +87,60 @@
   </ItemGroup>
   <ItemGroup>
     <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\leftfoot00.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\leftfoot01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\leftfoot02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\leftfoot03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\leftfoot04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\leftfoot05.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\leftfoot06.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\leftfoot07.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\leftfoot08.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rightfoot01.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rightfoot00.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rightfoot02.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rightfoot03.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rightfoot04.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rightfoot05.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rightfoot06.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rightfoot07.png" />
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="Resources\rightfoot08.png" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
   <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 

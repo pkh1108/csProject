@@ -117,10 +117,59 @@
   <resheader name="writer">
     <value>System.Resources.ResXResourceWriter, System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089</value>
   </resheader>
-  <metadata name="timer.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>17, 17</value>
-  </metadata>
-  <metadata name="steptimer.TrayLocation" type="System.Drawing.Point, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a">
-    <value>110, 17</value>
-  </metadata>
+  <assembly alias="System.Windows.Forms" name="System.Windows.Forms, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b77a5c561934e089" />
+  <data name="leftfoot00" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\leftfoot00.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="leftfoot01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\leftfoot01.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="leftfoot02" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\leftfoot02.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="leftfoot03" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\leftfoot03.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="leftfoot04" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\leftfoot04.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="leftfoot05" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\leftfoot05.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="leftfoot06" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\leftfoot06.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="leftfoot07" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\leftfoot07.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="leftfoot08" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\leftfoot08.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rightfoot00" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\rightfoot00.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rightfoot01" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\rightfoot01.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rightfoot02" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\rightfoot02.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rightfoot03" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\rightfoot03.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rightfoot04" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\rightfoot04.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rightfoot05" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\rightfoot05.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rightfoot06" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\rightfoot06.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rightfoot07" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\rightfoot07.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
+  <data name="rightfoot08" type="System.Resources.ResXFileRef, System.Windows.Forms">
+    <value>Resources\rightfoot08.png;System.Drawing.Bitmap, System.Drawing, Version=4.0.0.0, Culture=neutral, PublicKeyToken=b03f5f7f11d50a3a</value>
+  </data>
 </root>
