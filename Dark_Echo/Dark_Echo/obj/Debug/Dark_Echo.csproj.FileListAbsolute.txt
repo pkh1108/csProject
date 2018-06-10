@@ -6,5 +6,5 @@ C:\박가현\2018_1\Window Programming\Dark_Echo\Dark_Echo\obj\Debug\Dark_Echo.M
 C:\박가현\2018_1\Window Programming\Dark_Echo\Dark_Echo\obj\Debug\Dark_Echo.csproj.GenerateResource.Cache
 C:\박가현\2018_1\Window Programming\Dark_Echo\Dark_Echo\obj\Debug\Dark_Echo.exe
 C:\박가현\2018_1\Window Programming\Dark_Echo\Dark_Echo\obj\Debug\Dark_Echo.pdb
-C:\박가현\2018_1\Window Programming\Dark_Echo\Dark_Echo\obj\Debug\Dark_Echo.Game.resources
 C:\박가현\2018_1\Window Programming\Dark_Echo\Dark_Echo\obj\Debug\Dark_Echo.Resource.resources
+C:\박가현\2018_1\Window Programming\Dark_Echo\Dark_Echo\obj\Debug\Dark_Echo.Game.resources
